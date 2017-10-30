@@ -19,5 +19,9 @@ kept localy and it will show you a pending status. When you are connected
 to the internet it will check firstly if the book exists in the 
 application and if it doesn't it will be added.
 Otherwise you will get a message that the book already exists.
+- If you are offline and you want to review a book, the data will be kept localy and when you are
+connected to the internet the book will be reviewed.
+- When the manager adds a new book, normal users will receive a notifications ("a book was
+added, you want to see it?")
 - After a book will be added the application will send you an email.
 
